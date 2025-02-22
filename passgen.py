@@ -2,9 +2,9 @@ import random
 
 characters=['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
 numbers=[1,2,3,4,5,6,7,8,9,0]
-special=['@','&','$','%','_','[',']','<','>']
+special=['@','&','$','%','_','[',']','<','>','#']
 print("\nWelcome to the password generator!\n")
-print("Follow the following instructions to generate a password!\n")
+print("Follow the instructions to generate a password!\n")
 print("----------------------------------------------------------\n")
 while True:
     try:

@@ -4,6 +4,7 @@
 #include <cstdlib>
 #include <algorithm>
 #include <random>
+#include <ctime>
 
 using namespace std;
 
@@ -17,6 +18,8 @@ int main() {
     int letteramt, numamt, specamt, passlen;
     char shuffle;
     string password;
+
+    srand(time(NULL));
 
     cout << "\nWelcome to the password generator!";
     cout << "\nFollow the instructions to generate a password!";

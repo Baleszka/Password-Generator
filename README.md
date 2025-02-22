@@ -4,6 +4,7 @@ As my first Github repository i wanted to make a password generator in 3 differe
 Those are python, C and C++
 
 Warning! Program might be buggy!
+Especially the c++ one.
 How to run?
 
 To run the python program, open a terminal inside the main folder and type "cd python".
@@ -11,12 +12,12 @@ What you want to do next is type "python passgen.py".
 The python program will execute in your terminal and you can use it!
 
 To run the C program, open a terminal inside the main folder and type "cd C".
-Next type "passgenC.exe" to run the program!
+Next type "passgenC.exe" or "start passgenC.exe" in powershell to run the program!
 The progran will execute inside your terminal!
 
 Running the C++ program is almost the same process as running the C one.
 Open a terminal inside the main folder and type "cd C++".
-Next type "passgencpp.exe" to run the program!
+Next type "passgencpp.exe" or "start passgencpp.exe" in powershell to run the program!
 Just like the previous programs it will execute in your terminal!
 
 How to use?

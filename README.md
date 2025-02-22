@@ -3,6 +3,7 @@ Welcome to my Program :D
 As my first Github repository i wanted to make a password generator in 3 different languages!
 Those are python, C and C++
 
+Warning! Program might be buggy!
 How to run?
 
 To run the python program, open a terminal inside the main folder and type "cd python".
